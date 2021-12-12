@@ -16,13 +16,13 @@ You can use the [editor on GitHub](https://github.com/greenearth2003/greenearth0
 [Github](https://www.facebook.com/profile.php?id=100027474632636)
 
 ## **Học vấn**
-**Từ 10/2021**
+- **Từ 10/2021**
 
 Học tại Trường Đại học Công nghệ Thông tin - ĐHQG Hồ Chí Minh - UIT
 
 Ngành Khoa học máy tính - Computer Science
 
-**2018-2021**
+- **2018-2021**
 
 Học tại Trường THPT Chuyên Lê Quý Đôn Quảng Trị
 
@@ -36,33 +36,26 @@ GPA: 9.0
 
 **Làm việc**
 
-Teamwork
+- Teamwork
 
-Teamleader
+- Teamleader
 
-Thuyết trình
+- Thuyết trình
+
+## **Giải thưởng**
+- Giải Nhì Kì thi HSG THPT cấp Tỉnh môn Vật lý 
+
+- Giải Khuyến khích Cuộc thi Sáng tạo Khoa học kĩ thuật cấp Tỉnh
+
+## **Sở thích**
+- Tìm hiểu Khoa học công nghệ
+
+- Cầu lông
+
+- Guitar
+
+- Đọc sách 
+
+- Nghe nhạc
 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/greenearth2003/greenearth03.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
