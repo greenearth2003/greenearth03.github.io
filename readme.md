@@ -1,7 +1,7 @@
 # CHÀO BẠN, MÌNH LÀ _NGUYỄN NHẬT MINH_ !!!
 # Dưới đây là một vài thông tin về mình 
 
-You can use the [editor on GitHub](https://github.com/greenearth2003/greenearth03.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+
 
 ## **Thông tin cơ bản**
 **Địa chỉ:** Quảng Trị, Việt Nam
