@@ -1,16 +1,47 @@
-# CHÀO BẠN, MÌNH LÀ NGUYỄN NHẬT MINH !!!
-## Dưới đây là một vài thông tin thú vị về mình 
+# CHÀO BẠN, MÌNH LÀ _NGUYỄN NHẬT MINH_ !!!
+# Dưới đây là một vài thông tin về mình 
 
 You can use the [editor on GitHub](https://github.com/greenearth2003/greenearth03.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## **Thông tin cơ bản**
+**Địa chỉ:** Quảng Trị, Việt Nam
 
-### Markdown
+**Ngày sinh:** 15/08/2003
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**SDT:** +84 9150 371 41
 
+## **Liên hệ**
+[Facebook](https://www.facebook.com/profile.php?id=100027474632636)
 
-Syntax highlighted code block
+[Github](https://www.facebook.com/profile.php?id=100027474632636)
+
+## **Học vấn**
+**Từ 10/2021**
+
+Học tại Trường Đại học Công nghệ Thông tin - ĐHQG Hồ Chí Minh - UIT
+
+Ngành Khoa học máy tính - Computer Science
+
+**2018-2021**
+
+Học tại Trường THPT Chuyên Lê Quý Đôn Quảng Trị
+
+Chuyên Vật lý
+
+GPA: 9.0
+ ## **Kỹ năng**
+ **Lập trình**
+ 
+ C++, C
+
+**Làm việc**
+
+Teamwork
+
+Teamleader
+
+Thuyết trình
+
 
 # Header 1
 ## Header 2
