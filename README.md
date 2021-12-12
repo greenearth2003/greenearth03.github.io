@@ -92,7 +92,7 @@
                     <ul class="list-inline dev-icons">
                        
                     </ul>
-                    <div class="subheading mb-3">Làm việc</div>
+                    <div class="subheading mb-3">Làm việcviệc</div>
                     <ul class="fa-ul mb-0">
                         <li>
                             <span class="fa-li"><i class="fas fa-check"></i></span>
