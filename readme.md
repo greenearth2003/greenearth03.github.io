@@ -13,7 +13,7 @@
 ## **Liên hệ**
 [Facebook](https://www.facebook.com/profile.php?id=100027474632636)
 
-[Github](https://www.facebook.com/profile.php?id=100027474632636)
+[Github](https://github.com/greenearth2003)
 
 ## **Học vấn**
 - **Từ 10/2021**
@@ -29,7 +29,6 @@ Học tại Trường THPT Chuyên Lê Quý Đôn Quảng Trị
 Chuyên Vật lý
 
 GPA: 9.0
-
 
 ## **Kỹ năng**
  
