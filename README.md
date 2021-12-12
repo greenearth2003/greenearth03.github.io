@@ -113,7 +113,7 @@
             </section>
             <hr class="m-0" />
             
-            <!-- Awards-->
+            
             <section class="resume-section" id="awards">
             <div class="resume-section-content">
             <h2 class="mb-5">Giải thưởng</h2>
