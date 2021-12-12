@@ -25,11 +25,7 @@
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav">
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">Bản thân</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Học vấn</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Kĩ năng</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Giải thưởng</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Sở thích</a></li>
+                   
                     
                 </ul>
             </div>
@@ -131,8 +127,8 @@
                    
         <!-- Interests-->
         <section class="resume-section" id="interests">
-            <div class="resume-section-content">
-                <h2 class="mb-5">Sở thích</h2>
+        <div class="resume-section-content">
+        <h2 class="mb-5">Sở thích</h2>
                 <p>Khoa học công nghệ</p>
                 <p>Cầu lông</p>
                 <p>Đọc sách</p>
