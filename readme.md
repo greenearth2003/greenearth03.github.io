@@ -29,10 +29,9 @@ Học tại Trường THPT Chuyên Lê Quý Đôn Quảng Trị
 Chuyên Vật lý
 
 GPA: 9.0
-
- ## **Kỹ năng**
+## **Kỹ năng**
  
- **Lập trình**
+**Lập trình**
  
  C++, C
 
